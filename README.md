@@ -51,23 +51,23 @@ Demonstrated smoother and more controlled latency growth under scale, addressing
 
 ### Experimental Results (Summary)
 
-  | Nodes | Baseline (req/s) | Optimized (req/s) | Improvment (%)  |
-  |-------|------------------| ------------------| ----------------|
-  | 3     |  3,600           | 4,700             | 66.67           |
-  | 5     |  5,900           | 7,700             | 70.00           |
-  | 7     |  8,400           | 10,950            | 71.43           |
-  | 9     |  10,700          | 13,950            | 72.22           |
-  | 11    |  13,200          | 17,400            | 72.73           |
+  | Nodes | Baseline Scheduler(ms) | RL Based Scheduler (ms)| Improvment (%)  |
+  |-------|------------------------| -----------------------| ----------------|
+  | 3     |  85                    | 62                     | 27.06           |
+  | 5     |  110                   | 78                     | 29.09           |
+  | 7     |  145                   | 100                    | 31.03           |
+  | 9     |  190                   | 125                    | 34.21           |
+  | 11    |  260                   | 165                    | 36.54           |
 
 ### Citation
-MULTI-OBJECTIVE OPTIMIZATION FOR RESOURCE EFFICIENCY IN CLUSTERED ARCHITECTURE
+INTELLIGENT RESOURCE SCHEDULING FOR DISTRIBUTED ORCHESTRATION SYSTEMS USING REINFORCEMENT LEARNING
 * Kalesha Khan Pattan
-* International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences 
+* ******************************************************************** 
 * ISSN 2147-6799
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijisae.org/ \
+****************https://www.ijisae.org/ \
 **Author Contact** \
 **LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
 
